@@ -15,7 +15,7 @@ we will use tomcat to host our server; install tomcat with "brew install tomcat"
 
 ^^^^
 ||||
-above is not old
+above is old
 
 download tomcat; https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.28/bin/apache-tomcat-10.1.28.zip
 
