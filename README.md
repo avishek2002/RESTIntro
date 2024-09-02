@@ -26,4 +26,4 @@ intlelij -> new project -> jakarta ee -> type in the name for the project, etc b
 chmod +x *.sh
 ```
 
-//finised setting up the environment
+//finised setting up the environment; start with the lab work now
